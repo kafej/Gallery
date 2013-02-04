@@ -1,0 +1,18 @@
+body {
+	background-color: #849534;
+}
+.content {
+	width: 800px;
+	margin: 0 auto;
+	background-color: rgba(255,255,255,0.8);
+	padding: 15px;
+}
+
+.gallery {
+	border: 1px solid #999;
+	margin-bottom: 15px;
+	padding: 15px;
+}
+li {
+	list-style-type: none;
+}
